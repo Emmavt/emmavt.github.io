@@ -1,3 +1,12 @@
+
+### Notes for Emma
+ Next things to do:
+ - Figure out how to make public (look for github pages tutorial)
+ - Add pictures
+ - Add CV file
+
+
+
 Phantom by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
